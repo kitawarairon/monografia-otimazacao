@@ -1,0 +1,5 @@
+dados_exemplo_24 - contém os dados utilizados neste teste;
+exemplo_nolinear_constrains_24 - contém as restrições não lineares;
+exemplo_objf_24 - contém a função objetivo
+exemplo_otm_24 - contém as opções de otimização,... 
+chamada da função objetivo e o otimizador
